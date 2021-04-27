@@ -11,7 +11,7 @@ def showMsg():
 
 
 button = Button(tkWindow,
-                text='click',
+                text='click me',
                 command=showMsg)
 button.pack()
 
